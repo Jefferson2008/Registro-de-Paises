@@ -1,0 +1,16 @@
+Pais,Rios,Lagunas,Bosques,Montañas,Valles
+Honduras,41,30,13,11,16
+Guatemala,37,20,15,30,19
+Belice,25,16,7,14,12
+Mexico,113,43,23,56,34
+Nicaragua,31,25,9,13,10
+Puerto Rico,23,19,7,9,9
+Jamaica,15,6,3,11,6
+Republica Dominicana,24,15,3,12,8
+
+
+
+
+
+
+
